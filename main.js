@@ -25,11 +25,11 @@ function draw()
 {
 image(video,0,0,650,450)
 }
-song1="";
-song2="";
+song1="Intentions - Justin Bieber.mp3";
+song2="Stitches - Shawn Mendes.mp3";
 
 function preload()
 {
-song1=loadSound('');
-song2=loadSound('');
+song1=loadSound('Intentions - Justin Bieber.mp3');
+song2=loadSound('Stitches - Shawn Mendes.mp3');
 }
